@@ -12,17 +12,3 @@
      font-weight: bold; /* 太字に設定 */
      color: #333; /* 文字色を設定 */
    }
-   .menu-icon {
-       display: inline-block;
-       width: 18px; /* アイコンの幅 */
-       height: 15px; /* アイコンの高さ */
-       cursor: pointer; /* カーソルをポインターに変更 */
-   }
-   .menu-icon svg {
-       width: 100%; /* SVGの幅を親要素に合わせる */
-       height: 100%; /* SVGの高さを親要素に合わせる */
-       fill: #424242; /* アイコンの色を設定 */
-   }
-   .menu-icon:hover svg {
-       fill: #111; /* ホバー時のアイコンの色を変更 */
-   }
