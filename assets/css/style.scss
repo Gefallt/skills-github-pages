@@ -5,5 +5,10 @@
 @import "minima";
    /* ここにカスタムスタイルを追加 */
    body {
-     background-color: #dedede !important;
+     background-color: #fff9c4 !important;
+   }
+   h1 {
+     font-size: 2em; /* 例: 2emに設定 */
+     font-weight: bold; /* 太字に設定 */
+     color: #333; /* 文字色を設定 */
    }
