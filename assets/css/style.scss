@@ -5,8 +5,7 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
-#   @import "minima";
-#   /* ここにカスタムスタイルを追加 */
+   /* ここにカスタムスタイルを追加 */
    body {
-     background-color: #f0f0f0;
+     background-color: #dedede !important;
    }
