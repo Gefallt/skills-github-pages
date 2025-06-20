@@ -4,3 +4,17 @@
   1. Head over to https://realfavicongenerator.net/ to add your own favicons.
   2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
 {% endcomment %}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var navTrigger = document.getElementById('nav-trigger');
+    var trigger = document.querySelector('.trigger');
+
+    navTrigger.addEventListener('change', function() {
+      if (navTrigger.checked) {
+        trigger.style.display = 'block';
+      } else {
+        trigger.style.display = 'none';
+      }
+    });
+  });
+</script>
