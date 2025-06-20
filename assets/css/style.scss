@@ -26,3 +26,9 @@
    .site-nav .menu-icon:hover svg {
        fill: #111; /* ホバー時のアイコンの色を変更 */
    }
+   .site-nav .trigger {
+       display: none; /* 初期状態では非表示 */
+   }
+   .site-nav input:checked ~ .trigger {
+       display: block; /* チェックされたときに表示 */
+   }
