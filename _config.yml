@@ -1,9 +1,10 @@
-theme: minima
-title: Welcome my blog
+theme: jekyll-theme-slate
+title: Welcome to My blog
 auther: Gefallt
 description: skills-github-pages
 sass:
   sass_dir: assets/css
   style: compressed
   
+
 
