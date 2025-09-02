@@ -1,5 +1,5 @@
 ---
-title: Welcome to My blog
-auther: Gefallt
-description: skills-github-pages
+title: Title on Index.md
+auther: Auther on Index.md
+description: Description on Index.md
 ---
