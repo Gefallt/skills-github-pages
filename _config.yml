@@ -1,5 +1,9 @@
 theme: minima
+title: Welcome my blog
+auther: Gefallt
+description: skills-github-pages
 sass:
   sass_dir: assets/css
   style: compressed
   
+
