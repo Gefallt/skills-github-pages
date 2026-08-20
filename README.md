@@ -17,6 +17,11 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
+# skills-github-pages
+
+GitHub Pages の学習中です。
+
+2026-08-20 更新
 
 ## Finish
 
