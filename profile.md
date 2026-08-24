@@ -3,6 +3,6 @@ layout: page
 title: Profile
 permalink: /profile/
 ---
-# profile
+# profileSharp
 
 ここはプロファイルを書くところ
