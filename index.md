@@ -1,5 +1,5 @@
 ---
-title: トルタイ
-auther: さーおー
-description: くりです
+title: IndexMDのタイトル
+auther: IndexMDのオーサー
+description: IndexMDのデスクリ
 ---

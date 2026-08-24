@@ -1,4 +1,9 @@
 theme: "minima"
+header_pages:
+  - about.md
+  - profile.md
+  - contact.md
+
 title: Welcome to My blog
 auther: Gefallt
 description: theme in "minima"
