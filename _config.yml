@@ -5,7 +5,7 @@ header_pages:
   - contact.md
 
 title: Welcome to My blog
-auther: Gefallt
+author: Gefallt
 description: theme in "minima"
 sass:
   sass_dir: assets/css
