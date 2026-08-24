@@ -1,5 +1,5 @@
 ---
 title: IndexMDのタイトル
-auther: IndexMDのオーサー
+author: IndexMDのオーサー
 description: IndexMDのデスクリ
 ---
