@@ -3,6 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-# About
+# AboutSharp
 
 このサイトについての説明をするところ
